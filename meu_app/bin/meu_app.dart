@@ -6,9 +6,6 @@ void main() {
   print('\nDigite o primeiro numero:');
   int num1 = int.parse(stdin.readLineSync()!);
   
-  print('\nDigite o segundo numero:');
-  int num2 = int.parse(stdin.readLineSync()!);
-  
   String operacao;
   bool operacaovalida = false;
   
@@ -20,21 +17,29 @@ void main() {
     {
       
       case "+":
+      print('\nDigite o segundo numero:');
+      int num2 = int.parse(stdin.readLineSync()!);
         soma(num1, num2);
         operacaovalida = true;
         break;
       
       case "-":
+      print('\nDigite o segundo numero:');
+      int num2 = int.parse(stdin.readLineSync()!);
         subtracao(num1, num2);
         operacaovalida = true;
         break;
       
       case "*":
+      print('\nDigite o segundo numero:');
+      int num2 = int.parse(stdin.readLineSync()!);
         multiplicacao(num1, num2);
         operacaovalida = true;
         break;
       
       case "/":
+      print('\nDigite o segundo numero:');
+      int num2 = int.parse(stdin.readLineSync()!);
         if (num2 == 0) 
         {
           print('Erro: Divisão por zero! Tente outro número.');
