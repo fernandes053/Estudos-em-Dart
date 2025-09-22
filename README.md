@@ -47,5 +47,5 @@ A ideia inicial é aprender Dart com um futuro planejado em Flutter, mas o plano
 
 ---
 
-### ✨ Autor
+### Autor 👨🏼‍💻
 Feito com dedicação por **Leonardo Fernandes**.  
