@@ -44,3 +44,8 @@ A ideia inicial é aprender Dart com um futuro planejado em Flutter, mas o plano
 2. Clone este repositório:  
    ```bash
    git clone https://github.com/USERNAME/REPO.git
+
+---
+
+### ✨ Autor
+Feito com dedicação por **Leonardo Fernandes**.  
