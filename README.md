@@ -23,8 +23,13 @@ Este é um projeto inicial de estudos, mas com o tempo pretendo **expandir** par
 ---
 
 ## 📂 Estrutura do Projeto
-- 📁 Meu-app┣ 📄 README.md # Documentação do projeto (você está aqui!)┗ 📄 .gitignore # Arquivos e pastas ignorados pelo Git
-- 📁 bin┗ 📄 meu_app # Arquivo principal com a lógica da calculadora
+~~~ 
+📁 meu_app
+├─ README.md             # Documentação do projeto (você está aqui!)
+└─ .gitignore            # Arquivos e pastas ignorados pelo Git
+📁 bin
+└─ meu_app.dart       # Arquivo principal com a lógica da calculadora
+~~~
 
 
 ---
