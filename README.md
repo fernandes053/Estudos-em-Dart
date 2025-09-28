@@ -23,9 +23,10 @@ Este é um projeto inicial de estudos, mas com o tempo pretendo **expandir** par
 ---
 
 ## 📂 Estrutura do Projeto
-~~~ 
-📁 meu_app
+~~~
+📁 Estudos-em-Dart
 └─README.md             # Documentação do projeto (você está aqui!)
+📁 meu_app
 📁 bin
 ├─ meu_app.dart       # Arquivo principal com a lógica da calculadora
 └─ .gitignore            # Arquivos e pastas ignorados pelo Git
